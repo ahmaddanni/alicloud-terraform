@@ -1,5 +1,3 @@
-Github repo: [https://github.com/3dw1np/alicloud-gitlab-terraform](https://github.com/3dw1np/alicloud-gitlab-terraform)
-
 # Deploy Gitlab HA on Alibaba Cloud with Terraform
 
 At Alibaba Cloud, we use Terraform to provide fast demos to our customers.
